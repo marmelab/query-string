@@ -2,6 +2,8 @@
 
 > Parse and stringify URL [query strings](https://en.wikipedia.org/wiki/Query_string)
 
+Fork of [query-string]([https://github.com/SamVerschueren/decode-uri-component](https://github.com/sindresorhus/query-string)) 7.1.3 with the fix for [CVE-2026-45822](https://github.com/advisories/GHSA-vcc3-ghjq-m6fr) backported via a fork of decode-uri-component.
+
 <br>
 
 ---

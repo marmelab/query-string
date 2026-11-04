@@ -1,5 +1,5 @@
 {
-	"name": "query-string",
+	"name": "@marmelab/query-string",
 	"version": "7.1.4",
 	"description": "Parse and stringify URL query strings",
 	"license": "MIT",
